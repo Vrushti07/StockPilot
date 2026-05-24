@@ -59,12 +59,3 @@ npm install && npm run dev
 ```
 
 ---
-
-## Roadmap
-- [ ] Auto-expiry background job for stale reservations
-- [ ] Warehouse management UI
-- [ ] Stock movement trend charts
-- [ ] PostgreSQL support for production
-- [ ] Role-based access control
-
----
